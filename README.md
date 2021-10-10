@@ -1,5 +1,4 @@
-# py310_new_features
-🚧 WIP: An exploration of new features in Python 3.10.
+# 🚧 WIP: An exploration of new features in Python 3.10 with data science in mind
 
 Content                                                 | Notebook. |
 ------------------------------------------------------- | --------- |
